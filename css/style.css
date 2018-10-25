@@ -1,0 +1,117 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+section {
+    display: block;
+}
+
+
+
+button.btn {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    font-size: 22px;
+    background: none;
+    color: #fff;
+}
+
+button.btn:hover {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid #fff;
+    border-radius: 25px;
+    font-size: 22px;
+    background: #f8cd40;
+    color: #fff;
+}
+
+.full {
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.satu {
+    background: #f5c118;
+}
+
+.dua {
+    background: #ebeae9;
+    margin: 0;
+    padding: 0;
+}
+
+.tiga {
+    background: #fcf7b5;
+    margin: 0;
+    padding: 0;
+    color: #2b2b2b;
+}
+
+textarea {
+    width: 500px;
+    background: #2b2b2b;
+    color: #ebeae9;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+    align-items: center;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.container.top {
+    height: 100vh;
+    width: 100vw;
+    display: table-cell;
+    vertical-align: top;
+}
+
+.demo1 {
+    border: 1px solid rgb(59, 58, 58);
+    border-radius: 25px;
+}
+
+section h2 {
+    font-size: 50px;
+    color: rgb(235, 235, 235);
+}
+
+section.tiga h2 {
+    font-size: 50px;
+    color: #2b2b2b;
+}
+
+
+
+section h5 {
+    font-size: 30px;
+    color: rgb(235, 235, 235);
+}
+
+section.dua h5 {
+    font-size: 20px;
+    color: rgb(66, 62, 62);
+}
+
+section.dua h4 {
+    font-size: 35px;
+    color: rgb(66, 62, 62);
+    margin: 0;
+    padding: 0;
+}
+
