@@ -11,7 +11,7 @@ $ git clone https://github.com/sahmura/jarakCSS.git
 2. Pasang file css di folder Kamu, gunakan kode di bawah.
 
 ```
-<link href="jarak.css" rel="stylesheet">
+<link href="css/jarak.css" rel="stylesheet">
 ```
 # PENGGUNAAN
 Gunakan di dalam class, contoh:
