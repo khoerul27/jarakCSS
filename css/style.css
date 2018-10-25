@@ -9,6 +9,12 @@ section {
     display: block;
 }
 
+@media(min-width: 768px){
+textarea {
+    height: 100px;
+    width : 150px;
+    }
+}
 
 
 button.btn {
