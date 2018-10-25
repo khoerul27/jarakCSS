@@ -16,7 +16,7 @@ section {
 @media(max-width: 700px){
 textarea {
     height: 50px;
-    width : 150px;
+    width : 50px;
     }
 button.btn {
     padding : 13px;
