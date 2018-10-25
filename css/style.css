@@ -13,7 +13,7 @@ section {
     display: block;
 }
 
-@media (max-width: 768px){
+@media only screen and (max-width: 768px){
 textarea {
     height: 50px;
     width : 50px;
@@ -26,7 +26,7 @@ button.btn {
 
 button.btn {
     margin: 0;
-    padding: 13px;
+    padding: 20px;
     border: 1px solid #fff;
     border-radius: 25px;
     font-size: 22px;
