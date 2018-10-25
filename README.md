@@ -1,12 +1,17 @@
 # JARAK CSS
 Jarak css adalah sebuah css untuk membuat jarak per elemen sehingga tidak perlu ribet lagi. Dibuat untuk memudahkan pengguna dalam mengatur jarak dalam elemen web nya. Satuan yang digunakan adalah rem.
 
+# DOWNLOAD
+```
+$ git clone https://github.com/sahmura/jarakCSS.git
+```
+
 # INSTALL
 1. Letakan file css di folder Kamu.
 2. Pasang file css di folder Kamu, gunakan kode di bawah.
 
 ```
-<link href="jarak.css" rel="stylesheet">
+<link href="css/jarak.css" rel="stylesheet">
 ```
 # PENGGUNAAN
 Gunakan di dalam class, contoh:
