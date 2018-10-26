@@ -1,0 +1,26 @@
+@media (max-width: 700px){
+    textarea {
+        height: 50px;
+        width : 200px;
+        }
+    button.btn {
+        padding : 7px 10px;
+        margin: 5px;
+        }
+    
+    section h2{
+        font-size: 35px;
+    }
+    
+    section h5 {
+        font-size: 15px;
+    }
+    
+    section h4{
+        font-size: 20px;
+    }
+
+    .full {
+        padding: 10px;
+    }
+    }
